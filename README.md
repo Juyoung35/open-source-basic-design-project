@@ -1,5 +1,5 @@
 # open-source-basic-design-project
-2022년 2학기 오픈소스기초설계(나) 과제
+숭실대학교 20223102 최주영 2022년 2학기 오픈소스기초설계(나) 과제
 
 ## 실습 내용
 - [x] Github 페이지 생성, public으로 전체 공개: open-source-basic-design-project
