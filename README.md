@@ -6,7 +6,7 @@
 - [x] Github 페이지의 라이선스 형태 명시: MIT License
 - [x] 폴더 생성: src
 - [x] src 폴더 안에 프로그래밍 파일 1개 이상 업로드: RPG_Extreme.rs
-- [x] > [참고 링크(BOJ 17081)](https://www.acmicpc.net/problem/17081)
+> > [참고 링크(BOJ 17081)](https://www.acmicpc.net/problem/17081)
 - [x] 폴더 생성: doc
 - [x] doc 폴더 안에 프로젝트 제안서 업로드
 - [x] 파일 수정: src 폴더 안에 있는 폴더 내용 수정 commmit & push 1회 이상
