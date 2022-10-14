@@ -33,7 +33,7 @@ print("Hello World!") # 문단 강조
 ###### 폰트 크기 6
 
 **This is Bold text**  
-*This is Italic text*
+*This is Italic text*  
 ~~This is Strikethrough text~~  
 > This is a Quote  
 
