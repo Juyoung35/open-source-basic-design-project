@@ -1,3 +1,4 @@
+// Made by Juyoung35
 use std::io::{self, prelude::*, BufWriter};
 use std::fmt;
 type Pointer = usize;
