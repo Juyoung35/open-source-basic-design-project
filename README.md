@@ -11,7 +11,7 @@
 - [x] 파일 수정: src 폴더 안에 있는 폴더 내용 수정 commmit & push 1회 이상
 
 ## Github 페이지의 README.md 생성
-내용 작성
+내용 작성  
 문서 제목
 =========
 * 항목
@@ -20,7 +20,6 @@
 ```python
 print("Hello World!") # 문단 강조
 ```
-
 
 페이지
 * * *
