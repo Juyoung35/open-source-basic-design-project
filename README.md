@@ -32,9 +32,10 @@ print("Hello World!") # 문단 강조
 #### 폰트 크기 4
 ##### 폰트 크기 5
 ###### 폰트 크기 6
-**This is Bold text**
-*This is Italic text"
-~~This is Strikethrough text~~
-> This is a Quote
+
+**This is Bold text**  
+*This is Italic text"  
+~~This is Strikethrough text~~  
+> This is a Quote  
 
 [링크 삽입](https://github.com/Juyoung35/open-source-basic-design-project/)
